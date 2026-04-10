@@ -1,0 +1,1698 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "quickadd",
+        "version": "1.0.0",
+        "title": "QuickAdd",
+        "description": "QuickAdd Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.9.0",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "添加选项",
+                    "target": "添加选项"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "捕获到当前文件",
+                    "target": "捕获到当前文件"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "AI 助手",
+                    "target": "AI 助手"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Manage Macros",
+                    "target": "Manage Macros"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "default",
+                    "target": "default"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Default",
+                    "target": "Default"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "preview",
+                    "target": "preview"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Preview",
+                    "target": "Preview"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "source",
+                    "target": "source"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Source",
+                    "target": "Source"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "vertical",
+                    "target": "vertical"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Vertical",
+                    "target": "Vertical"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "horizontal",
+                    "target": "horizontal"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Horizontal",
+                    "target": "Horizontal"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Cursor",
+                    "target": "Cursor"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Bottom",
+                    "target": "Bottom"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Top",
+                    "target": "Top"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "询问我",
+                    "target": "询问我"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "选择活动行上的链接",
+                    "target": "选择活动行上的链接"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "选择活动行",
+                    "target": "选择活动行"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Paste",
+                    "target": "Paste"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Cut",
+                    "target": "Cut"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Copy",
+                    "target": "Copy"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createDiv",
+                    "source": "suggestion",
+                    "target": "suggestion"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "span",
+                    "target": "span"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "div",
+                    "target": "div"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "`import faIconName from '@fortawesome/package-name/faIconName` not supported - Please use `import { faIconName } from '@fortawesome/package-name/faIconName'` instead",
+                    "target": "`import faIconName from '@fortawesome/package-name/faIconName` not supported - Please use `import { faIconName } from '@fortawesome/package-name/faIconName'` instead"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Loading QuickAdd",
+                    "target": "Loading QuickAdd"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "测试 QuickAdd (dev)",
+                    "target": "测试 QuickAdd (dev)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Unloading QuickAdd",
+                    "target": "Unloading QuickAdd"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "No",
+                    "target": "No"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Yes",
+                    "target": "Yes"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Add",
+                    "target": "Add"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "OK",
+                    "target": "OK"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Submit",
+                    "target": "Submit"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Delete",
+                    "target": "Delete"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Configure",
+                    "target": "Configure"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Add macro",
+                    "target": "Add macro"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "添加提供商",
+                    "target": "添加提供商"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Edit",
+                    "target": "Edit"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "添加模型",
+                    "target": "添加模型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Cancel",
+                    "target": "Cancel"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Save",
+                    "target": "Save"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "编辑提供商",
+                    "target": "编辑提供商"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "模板路径。",
+                    "target": "模板路径。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "设置文件名格式。",
+                    "target": "设置文件名格式。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "在指定文件夹中创建文件。如果指定了多个文件夹，将提示你选择在哪个文件夹中创建文件。",
+                    "target": "在指定文件夹中创建文件。如果指定了多个文件夹，将提示你选择在哪个文件夹中创建文件。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "创建笔记时，将提示你从所选文件夹及其子文件夹中进行选择。",
+                    "target": "创建笔记时，将提示你从所选文件夹及其子文件夹中进行选择。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "在当前活动文件所在的文件夹中创建文件。如果没有活动文件，则不会创建文件。",
+                    "target": "在当前活动文件所在的文件夹中创建文件。如果没有活动文件，则不会创建文件。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Append link to created file to current file.",
+                    "target": "Append link to created file to current file."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "设置默认行为，而不是在文件已存在时提示用户如何处理。",
+                    "target": "设置默认行为，而不是在文件已存在时提示用户如何处理。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Open the created file.",
+                    "target": "Open the created file."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Split your editor and open file in new split.",
+                    "target": "Split your editor and open file in new split."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "打开后立即聚焦已打开的标签页",
+                    "target": "打开后立即聚焦已打开的标签页"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "File to capture to. Supports some format syntax.",
+                    "target": "File to capture to. Supports some format syntax."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "将该值格式化为任务。",
+                    "target": "将该值格式化为任务。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Add a link on your current cursor position, linking to the file you're capturing to.",
+                    "target": "Add a link on your current cursor position, linking to the file you're capturing to."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Insert capture after specified line. Accepts format syntax.",
+                    "target": "Insert capture after specified line. Accepts format syntax."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Insert the text at the end of the section, rather than at the top.",
+                    "target": "Insert the text at the end of the section, rather than at the top."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Enabling this will insert the text at the end of the section & its subsections, rather than just at the end of the target section.A section is defined by a heading, and its subsections are all the headings inside that section.",
+                    "target": "Enabling this will insert the text at the end of the section & its subsections, rather than just at the end of the target section.A section is defined by a heading, and its subsections are all the headings inside that section."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "如果未找到，则创建“插入在后面”的行。",
+                    "target": "如果未找到，则创建“插入在后面”的行。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "设置捕获内容的格式。",
+                    "target": "设置捕获内容的格式。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Open the file that is captured to.",
+                    "target": "Open the file that is captured to."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Open the file that is captured to in a new tab.",
+                    "target": "Open the file that is captured to in a new tab."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Focus the opened tab immediately",
+                    "target": "Focus the opened tab immediately"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "启用则使用指定提示模板；禁用则询问。",
+                    "target": "启用则使用指定提示模板；禁用则询问。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "AI 助手将使用的模型",
+                    "target": "AI 助手将使用的模型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "用于存储 AI 助手输出的变量名称，即 {{value:output}}。",
+                    "target": "用于存储 AI 助手输出的变量名称，即 {{value:output}}。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "AI助手的系统提示。",
+                    "target": "AI助手的系统提示。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "显示高级设置，如温度、top p 和频率惩罚。",
+                    "target": "显示高级设置，如温度、top p 和频率惩罚。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "采样温度。高值如0.8输出更随机，低值如0.2更集中。默认1。",
+                    "target": "采样温度。高值如0.8输出更随机，低值如0.2更集中。默认1。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "核采样 - 温度替代。考虑top_p概率质量。0.1表示前10%。默认1。",
+                    "target": "核采样 - 温度替代。考虑top_p概率质量。0.1表示前10%。默认1。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "正值会根据新词元在当前文本中的出现频率进行惩罚，降低模型逐字重复同一行的可能性。默认值为 0。",
+                    "target": "正值会根据新词元在当前文本中的出现频率进行惩罚，降低模型逐字重复同一行的可能性。默认值为 0。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "正值会根据新词元是否已出现在当前文本中进行惩罚，提高模型谈论新话题的可能性。默认值为 0。",
+                    "target": "正值会根据新词元是否已出现在当前文本中进行惩罚，提高模型谈论新话题的可能性。默认值为 0。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "添加 Obsidian 命令",
+                    "target": "添加 Obsidian 命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "添加编辑器命令",
+                    "target": "添加编辑器命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Add user script",
+                    "target": "Add user script"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "添加现有选项",
+                    "target": "添加现有选项"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "AI 助手的提供商",
+                    "target": "AI 助手的提供商"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "提供商名称",
+                    "target": "提供商名称"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "AI 助手的端点",
+                    "target": "AI 助手的端点"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "The API Key for the AI Assistant",
+                    "target": "The API Key for the AI Assistant"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "AI 助手的默认模型",
+                    "target": "AI 助手的默认模型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "提示模板文件夹路径",
+                    "target": "提示模板文件夹路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "显示来自 AI 助手的状态消息",
+                    "target": "显示来自 AI 助手的状态消息"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "AI助手默认系统提示",
+                    "target": "AI助手默认系统提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "新版本安装时显示发布说明，含新功能、演示视频和错误修复。",
+                    "target": "新版本安装时显示发布说明，含新功能、演示视频和错误修复。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "使用多行输入提示而非单行输入提示",
+                    "target": "使用多行输入提示而非单行输入提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "模板存储文件夹路径。配置QuickAdd时建议模板文件。",
+                    "target": "模板存储文件夹路径。配置QuickAdd时建议模板文件。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "This prevents the plugin from making requests to external providers like OpenAI. You can still use User Scripts to execute arbitrary code, inclulding contacting external providers. However, this setting disables plugin features like the AI Assistant from doing so. You need to disable this setting to use the AI Assistant.",
+                    "target": "This prevents the plugin from making requests to external providers like OpenAI. You can still use User Scripts to execute arbitrary code, inclulding contacting external providers. However, this setting disables plugin features like the AI Assistant from doing so. You need to disable this setting to use the AI Assistant."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "用于拼接多个 LLM 响应的字符串。默认值为换行符。",
+                    "target": "用于拼接多个 LLM 响应的字符串。默认值为换行符。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "用于分隔文本块的字符串。默认值为换行符。",
+                    "target": "用于分隔文本块的字符串。默认值为换行符。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "最大令牌数（块+提示模板+系统提示），预留响应空间",
+                    "target": "最大令牌数（块+提示模板+系统提示），预留响应空间"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "合并块至提示，达令牌限。减少查询，可能影响连贯性",
+                    "target": "合并块至提示，达令牌限。减少查询，可能影响连贯性"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "模板路径",
+                    "target": "模板路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "File Name Format",
+                    "target": "File Name Format"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "在文件夹中创建",
+                    "target": "在文件夹中创建"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "包含子文件夹",
+                    "target": "包含子文件夹"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "在活动文件的同一文件夹中创建",
+                    "target": "在活动文件的同一文件夹中创建"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Append link",
+                    "target": "Append link"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "设置文件已存在时的默认行为",
+                    "target": "设置文件已存在时的默认行为"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Open",
+                    "target": "Open"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "New split",
+                    "target": "New split"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "聚焦新窗格",
+                    "target": "聚焦新窗格"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Capture To",
+                    "target": "Capture To"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Write to bottom of file",
+                    "target": "Write to bottom of file"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "任务",
+                    "target": "任务"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "插入到后面",
+                    "target": "插入到后面"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "在章节末尾插入",
+                    "target": "在章节末尾插入"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "考虑子章节",
+                    "target": "考虑子章节"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "未找到则创建行",
+                    "target": "未找到则创建行"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "捕获格式",
+                    "target": "捕获格式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "文件不存在则创建",
+                    "target": "文件不存在则创建"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "按模板创建文件",
+                    "target": "按模板创建文件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "New Tab",
+                    "target": "New Tab"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "提示模板",
+                    "target": "提示模板"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Model",
+                    "target": "Model"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "输出变量名",
+                    "target": "输出变量名"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "系统提示",
+                    "target": "系统提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "显示高级设置",
+                    "target": "显示高级设置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Temperature",
+                    "target": "Temperature"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Top P",
+                    "target": "Top P"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "频率惩罚",
+                    "target": "频率惩罚"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "存在惩罚",
+                    "target": "存在惩罚"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Obsidian 命令",
+                    "target": "Obsidian 命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "编辑器命令",
+                    "target": "编辑器命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "用户脚本",
+                    "target": "用户脚本"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Choices",
+                    "target": "Choices"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "提供商",
+                    "target": "提供商"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Name",
+                    "target": "Name"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Endpoint",
+                    "target": "Endpoint"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "API 密钥",
+                    "target": "API 密钥"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "添加模型",
+                    "target": "添加模型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "默认模型",
+                    "target": "默认模型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "提示模板文件夹路径",
+                    "target": "提示模板文件夹路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "显示助手",
+                    "target": "显示助手"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "默认系统提示",
+                    "target": "默认系统提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "公告更新",
+                    "target": "公告更新"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "使用多行输入提示",
+                    "target": "使用多行输入提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "模板文件夹路径",
+                    "target": "模板文件夹路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "禁用 AI 与在线功能",
+                    "target": "禁用 AI 与在线功能"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "结果连接器",
+                    "target": "结果连接器"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "分块分隔符",
+                    "target": "分块分隔符"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "最大分块 Token 数",
+                    "target": "最大分块 Token 数"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "合并分块",
+                    "target": "合并分块"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "文件路径",
+                    "target": "文件路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "模板路径",
+                    "target": "模板路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "文件名格式",
+                    "target": "文件名格式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "文件夹路径",
+                    "target": "文件夹路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "在后插入",
+                    "target": "在后插入"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Format",
+                    "target": "Format"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Obsidian 命令",
+                    "target": "Obsidian 命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "User script",
+                    "target": "User script"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Choice",
+                    "target": "Choice"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Macro name",
+                    "target": "Macro name"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "如果不存在则创建文件",
+                    "target": "如果不存在则创建文件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "添加“AI 助手”命令",
+                    "target": "添加“AI 助手”命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "添加“等待”命令",
+                    "target": "添加“等待”命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Create Macro",
+                    "target": "Create Macro"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Configure Macro",
+                    "target": "Configure Macro"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "使用多行输入提示",
+                    "target": "使用多行输入提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Invalid prop: prop \"scale\" should be a number over 0.",
+                    "target": "Invalid prop: prop \"scale\" should be a number over 0."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "dndzone 将忽略未知选项",
+                    "target": "dndzone 将忽略未知选项"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[DEPRECATED] The `destroy` method will be unsupported in a future version. Instead use unsubscribe function returned by subscribe. Everything will be garbage-collected if store is garbage-collected.",
+                    "target": "[DEPRECATED] The `destroy` method will be unsupported in a future version. Instead use unsubscribe function returned by subscribe. Everything will be garbage-collected if store is garbage-collected."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "选项名称无效。",
+                    "target": "选项名称无效。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Migrate to macro ID from embedded macro in macro choices.",
+                    "target": "Migrate to macro ID from embedded macro in macro choices."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "使用 QuickAdd 模板文件夹，而非 Obsidian/Templater 模板文件夹。",
+                    "target": "使用 QuickAdd 模板文件夹，而非 Obsidian/Templater 模板文件夹。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "'递增文件名' 设置移至 '文件存在时默认行为' 设置。",
+                    "target": "'递增文件名' 设置移至 '文件存在时默认行为' 设置。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "insertAfter 与 writeToBottomOfFile 设置互斥。如果启用 insertAfter，则禁用 writeToBottomOfFile。用于支持设置界面变更。",
+                    "target": "insertAfter 与 writeToBottomOfFile 设置互斥。如果启用 insertAfter，则禁用 writeToBottomOfFile。用于支持设置界面变更。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Set version to 0.14.0, which is the release version prior to the update modal release.",
+                    "target": "Set version to 0.14.0, which is the release version prior to the update modal release."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "将默认 AI 提供商添加到设置中。",
+                    "target": "将默认 AI 提供商添加到设置中。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "arrow",
+                    "target": "arrow"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "flip",
+                    "target": "flip"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "hide",
+                    "target": "hide"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "offset",
+                    "target": "offset"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "OpenAI",
+                    "target": "OpenAI"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "运行 QuickAdd",
+                    "target": "运行 QuickAdd"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "重新加载 QuickAdd (dev)",
+                    "target": "重新加载 QuickAdd (dev)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "测试 QuickAdd (dev)",
+                    "target": "测试 QuickAdd (dev)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Test",
+                    "target": "Test"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "创建新笔记时选择文件夹",
+                    "target": "创建新笔记时选择文件夹"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Macro Manager",
+                    "target": "Macro Manager"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "AI 助手设置",
+                    "target": "AI 助手设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "QuickAdd Settings",
+                    "target": "QuickAdd Settings"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "正在获取发行说明...",
+                    "target": "正在获取发行说明..."
+                }
+            ],
+            "regex": [
+                {
+                    "source": "error(\"`import faIconName from '@fortawesome/package-name/faIconName` not supported - Please use `import { faIconName } from '@fortawesome/package-name/faIconName'` instead\")",
+                    "target": "error(\"`import faIconName from '@fortawesome/package-name/faIconName` not supported - Please use `import { faIconName } from '@fortawesome/package-name/faIconName'` instead\")"
+                },
+                {
+                    "source": "Notice(\"选项名称无效。\")",
+                    "target": "Notice(\"选项名称无效。\")"
+                },
+                {
+                    "source": "setPlaceholder(\"文件路径\")",
+                    "target": "setPlaceholder(\"文件路径\")"
+                },
+                {
+                    "source": "setName(\"模板路径\")",
+                    "target": "setName(\"模板路径\")"
+                },
+                {
+                    "source": "setDesc(\"模板路径。\")",
+                    "target": "setDesc(\"模板路径。\")"
+                },
+                {
+                    "source": "setPlaceholder(\"模板路径\")",
+                    "target": "setPlaceholder(\"模板路径\")"
+                },
+                {
+                    "source": "setName(\"File Name Format\")",
+                    "target": "setName(\"File Name Format\")"
+                },
+                {
+                    "source": "setDesc(\"设置文件名格式。\")",
+                    "target": "setDesc(\"设置文件名格式。\")"
+                },
+                {
+                    "source": "setPlaceholder(\"文件名格式\")",
+                    "target": "setPlaceholder(\"文件名格式\")"
+                },
+                {
+                    "source": "setName(\"在文件夹中创建\")",
+                    "target": "setName(\"在文件夹中创建\")"
+                },
+                {
+                    "source": "setDesc(\"在指定文件夹中创建文件。如果指定了多个文件夹，将提示你选择在哪个文件夹中创建文件。\")",
+                    "target": "setDesc(\"在指定文件夹中创建文件。如果指定了多个文件夹，将提示你选择在哪个文件夹中创建文件。\")"
+                },
+                {
+                    "source": "setName(\"包含子文件夹\")",
+                    "target": "setName(\"包含子文件夹\")"
+                },
+                {
+                    "source": "setDesc(\"创建笔记时，将提示你从所选文件夹及其子文件夹中进行选择。\")",
+                    "target": "setDesc(\"创建笔记时，将提示你从所选文件夹及其子文件夹中进行选择。\")"
+                },
+                {
+                    "source": "setName(\"在活动文件的同一文件夹中创建\")",
+                    "target": "setName(\"在活动文件的同一文件夹中创建\")"
+                },
+                {
+                    "source": "setDesc(\"在当前活动文件所在的文件夹中创建文件。如果没有活动文件，则不会创建文件。\")",
+                    "target": "setDesc(\"在当前活动文件所在的文件夹中创建文件。如果没有活动文件，则不会创建文件。\")"
+                },
+                {
+                    "source": "setPlaceholder(\"文件夹路径\")",
+                    "target": "setPlaceholder(\"文件夹路径\")"
+                },
+                {
+                    "source": "setName(\"Append link\")",
+                    "target": "setName(\"Append link\")"
+                },
+                {
+                    "source": "setDesc(\"Append link to created file to current file.\")",
+                    "target": "setDesc(\"Append link to created file to current file.\")"
+                },
+                {
+                    "source": "setName(\"设置文件已存在时的默认行为\")",
+                    "target": "setName(\"设置文件已存在时的默认行为\")"
+                },
+                {
+                    "source": "setDesc(\"设置默认行为，而不是在文件已存在时提示用户如何处理。\")",
+                    "target": "setDesc(\"设置默认行为，而不是在文件已存在时提示用户如何处理。\")"
+                },
+                {
+                    "source": "setDesc(\"Open the created file.\")",
+                    "target": "setDesc(\"Open the created file.\")"
+                },
+                {
+                    "source": "setName(\"New split\")",
+                    "target": "setName(\"New split\")"
+                },
+                {
+                    "source": "setDesc(\"Split your editor and open file in new split.\")",
+                    "target": "setDesc(\"Split your editor and open file in new split.\")"
+                },
+                {
+                    "source": "setName(\"聚焦新窗格\")",
+                    "target": "setName(\"聚焦新窗格\")"
+                },
+                {
+                    "source": "setDesc(\"打开后立即聚焦已打开的标签页\")",
+                    "target": "setDesc(\"打开后立即聚焦已打开的标签页\")"
+                },
+                {
+                    "source": "setTooltip(`Toggle ${item}`)",
+                    "target": "setTooltip(`Toggle ${item}`)"
+                },
+                {
+                    "source": "setName(\"Capture To\")",
+                    "target": "setName(\"Capture To\")"
+                },
+                {
+                    "source": "setDesc(\"File to capture to. Supports some format syntax.\")",
+                    "target": "setDesc(\"File to capture to. Supports some format syntax.\")"
+                },
+                {
+                    "source": "setName(\"Write to bottom of file\")",
+                    "target": "setName(\"Write to bottom of file\")"
+                },
+                {
+                    "source": "setDesc(`Put value at the bottom of the file - otherwise at the ${this.choice?.captureToActiveFile?\"active cursor location\":\"top\"}.`)",
+                    "target": "setDesc(`Put value at the bottom of the file - otherwise at the ${this.choice?.captureToActiveFile?\"active cursor location\":\"top\"}.`)"
+                },
+                {
+                    "source": "setName(\"任务\")",
+                    "target": "setName(\"任务\")"
+                },
+                {
+                    "source": "setDesc(\"将该值格式化为任务。\")",
+                    "target": "setDesc(\"将该值格式化为任务。\")"
+                },
+                {
+                    "source": "setDesc(\"Add a link on your current cursor position, linking to the file you're capturing to.\")",
+                    "target": "setDesc(\"Add a link on your current cursor position, linking to the file you're capturing to.\")"
+                },
+                {
+                    "source": "setName(\"插入到后面\")",
+                    "target": "setName(\"插入到后面\")"
+                },
+                {
+                    "source": "setDesc(\"Insert capture after specified line. Accepts format syntax.\")",
+                    "target": "setDesc(\"Insert capture after specified line. Accepts format syntax.\")"
+                },
+                {
+                    "source": "setPlaceholder(\"在后插入\")",
+                    "target": "setPlaceholder(\"在后插入\")"
+                },
+                {
+                    "source": "setName(\"在章节末尾插入\")",
+                    "target": "setName(\"在章节末尾插入\")"
+                },
+                {
+                    "source": "setDesc(\"Insert the text at the end of the section, rather than at the top.\")",
+                    "target": "setDesc(\"Insert the text at the end of the section, rather than at the top.\")"
+                },
+                {
+                    "source": "setName(\"考虑子章节\")",
+                    "target": "setName(\"考虑子章节\")"
+                },
+                {
+                    "source": "setDesc(\"Enabling this will insert the text at the end of the section & its subsections, rather than just at the end of the target section.A section is defined by a heading, and its subsections are all the headings inside that section.\")",
+                    "target": "setDesc(\"Enabling this will insert the text at the end of the section & its subsections, rather than just at the end of the target section.A section is defined by a heading, and its subsections are all the headings inside that section.\")"
+                },
+                {
+                    "source": "setName(\"未找到则创建行\")",
+                    "target": "setName(\"未找到则创建行\")"
+                },
+                {
+                    "source": "setDesc(\"如果未找到，则创建“插入在后面”的行。\")",
+                    "target": "setDesc(\"如果未找到，则创建“插入在后面”的行。\")"
+                },
+                {
+                    "source": "setName(\"捕获格式\")",
+                    "target": "setName(\"捕获格式\")"
+                },
+                {
+                    "source": "setDesc(\"设置捕获内容的格式。\")",
+                    "target": "setDesc(\"设置捕获内容的格式。\")"
+                },
+                {
+                    "source": "setName(\"文件不存在则创建\")",
+                    "target": "setName(\"文件不存在则创建\")"
+                },
+                {
+                    "source": "setTooltip(\"如果不存在则创建文件\")",
+                    "target": "setTooltip(\"如果不存在则创建文件\")"
+                },
+                {
+                    "source": "setName(\"按模板创建文件\")",
+                    "target": "setName(\"按模板创建文件\")"
+                },
+                {
+                    "source": "setDesc(\"Open the file that is captured to.\")",
+                    "target": "setDesc(\"Open the file that is captured to.\")"
+                },
+                {
+                    "source": "setName(\"New Tab\")",
+                    "target": "setName(\"New Tab\")"
+                },
+                {
+                    "source": "setDesc(\"Open the file that is captured to in a new tab.\")",
+                    "target": "setDesc(\"Open the file that is captured to in a new tab.\")"
+                },
+                {
+                    "source": "setDesc(\"Focus the opened tab immediately\")",
+                    "target": "setDesc(\"Focus the opened tab immediately\")"
+                },
+                {
+                    "source": "setName(\"提示模板\")",
+                    "target": "setName(\"提示模板\")"
+                },
+                {
+                    "source": "setDesc(\"启用则使用指定提示模板；禁用则询问。\")",
+                    "target": "setDesc(\"启用则使用指定提示模板；禁用则询问。\")"
+                },
+                {
+                    "source": "setDesc(\"AI 助手将使用的模型\")",
+                    "target": "setDesc(\"AI 助手将使用的模型\")"
+                },
+                {
+                    "source": "setName(\"输出变量名\")",
+                    "target": "setName(\"输出变量名\")"
+                },
+                {
+                    "source": "setDesc(\"用于存储 AI 助手输出的变量名称，即 {{value:output}}。\")",
+                    "target": "setDesc(\"用于存储 AI 助手输出的变量名称，即 {{value:output}}。\")"
+                },
+                {
+                    "source": "setName(\"系统提示\")",
+                    "target": "setName(\"系统提示\")"
+                },
+                {
+                    "source": "setDesc(\"AI助手的系统提示。\")",
+                    "target": "setDesc(\"AI助手的系统提示。\")"
+                },
+                {
+                    "source": "setName(\"显示高级设置\")",
+                    "target": "setName(\"显示高级设置\")"
+                },
+                {
+                    "source": "setDesc(\"显示高级设置，如温度、top p 和频率惩罚。\")",
+                    "target": "setDesc(\"显示高级设置，如温度、top p 和频率惩罚。\")"
+                },
+                {
+                    "source": "setName(\"Top P\")",
+                    "target": "setName(\"Top P\")"
+                },
+                {
+                    "source": "setDesc(\"核采样 - 温度替代。考虑top_p概率质量。0.1表示前10%。默认1。\")",
+                    "target": "setDesc(\"核采样 - 温度替代。考虑top_p概率质量。0.1表示前10%。默认1。\")"
+                },
+                {
+                    "source": "setName(\"频率惩罚\")",
+                    "target": "setName(\"频率惩罚\")"
+                },
+                {
+                    "source": "setDesc(\"正值会根据新词元在当前文本中的出现频率进行惩罚，降低模型逐字重复同一行的可能性。默认值为 0。\")",
+                    "target": "setDesc(\"正值会根据新词元在当前文本中的出现频率进行惩罚，降低模型逐字重复同一行的可能性。默认值为 0。\")"
+                },
+                {
+                    "source": "setName(\"存在惩罚\")",
+                    "target": "setName(\"存在惩罚\")"
+                },
+                {
+                    "source": "setDesc(\"正值会根据新词元是否已出现在当前文本中进行惩罚，提高模型谈论新话题的可能性。默认值为 0。\")",
+                    "target": "setDesc(\"正值会根据新词元是否已出现在当前文本中进行惩罚，提高模型谈论新话题的可能性。默认值为 0。\")"
+                },
+                {
+                    "source": "setName(\"Obsidian 命令\")",
+                    "target": "setName(\"Obsidian 命令\")"
+                },
+                {
+                    "source": "setDesc(\"添加 Obsidian 命令\")",
+                    "target": "setDesc(\"添加 Obsidian 命令\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Obsidian 命令\")",
+                    "target": "setPlaceholder(\"Obsidian 命令\")"
+                },
+                {
+                    "source": "setName(\"编辑器命令\")",
+                    "target": "setName(\"编辑器命令\")"
+                },
+                {
+                    "source": "setDesc(\"添加编辑器命令\")",
+                    "target": "setDesc(\"添加编辑器命令\")"
+                },
+                {
+                    "source": "setName(\"用户脚本\")",
+                    "target": "setName(\"用户脚本\")"
+                },
+                {
+                    "source": "setDesc(\"Add user script\")",
+                    "target": "setDesc(\"Add user script\")"
+                },
+                {
+                    "source": "setPlaceholder(\"User script\")",
+                    "target": "setPlaceholder(\"User script\")"
+                },
+                {
+                    "source": "setDesc(\"添加现有选项\")",
+                    "target": "setDesc(\"添加现有选项\")"
+                },
+                {
+                    "source": "setTooltip(\"添加“AI 助手”命令\")",
+                    "target": "setTooltip(\"添加“AI 助手”命令\")"
+                },
+                {
+                    "source": "setTooltip(\"添加“等待”命令\")",
+                    "target": "setTooltip(\"添加“等待”命令\")"
+                },
+                {
+                    "source": "setTooltip(`Add ${typeName} Choice`)",
+                    "target": "setTooltip(`Add ${typeName} Choice`)"
+                },
+                {
+                    "source": "setTooltip(\"Create Macro\")",
+                    "target": "setTooltip(\"Create Macro\")"
+                },
+                {
+                    "source": "setTooltip(\"Configure Macro\")",
+                    "target": "setTooltip(\"Configure Macro\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Macro name\")",
+                    "target": "setPlaceholder(\"Macro name\")"
+                },
+                {
+                    "source": "setButtonText(\"Add macro\")",
+                    "target": "setButtonText(\"Add macro\")"
+                },
+                {
+                    "source": "setName(\"提供商\")",
+                    "target": "setName(\"提供商\")"
+                },
+                {
+                    "source": "setDesc(\"AI 助手的提供商\")",
+                    "target": "setDesc(\"AI 助手的提供商\")"
+                },
+                {
+                    "source": "setButtonText(\"添加提供商\")",
+                    "target": "setButtonText(\"添加提供商\")"
+                },
+                {
+                    "source": "setDesc(\"提供商名称\")",
+                    "target": "setDesc(\"提供商名称\")"
+                },
+                {
+                    "source": "setDesc(\"AI 助手的端点\")",
+                    "target": "setDesc(\"AI 助手的端点\")"
+                },
+                {
+                    "source": "setName(\"API 密钥\")",
+                    "target": "setName(\"API 密钥\")"
+                },
+                {
+                    "source": "setDesc(\"The API Key for the AI Assistant\")",
+                    "target": "setDesc(\"The API Key for the AI Assistant\")"
+                },
+                {
+                    "source": "setDesc(`Max Tokens: ${model.maxTokens}`)",
+                    "target": "setDesc(`Max Tokens: ${model.maxTokens}`)"
+                },
+                {
+                    "source": "setName(\"添加模型\")",
+                    "target": "setName(\"添加模型\")"
+                },
+                {
+                    "source": "setButtonText(\"添加模型\")",
+                    "target": "setButtonText(\"添加模型\")"
+                },
+                {
+                    "source": "setButtonText(\"编辑提供商\")",
+                    "target": "setButtonText(\"编辑提供商\")"
+                },
+                {
+                    "source": "setName(\"默认模型\")",
+                    "target": "setName(\"默认模型\")"
+                },
+                {
+                    "source": "setDesc(\"AI 助手的默认模型\")",
+                    "target": "setDesc(\"AI 助手的默认模型\")"
+                },
+                {
+                    "source": "setName(\"提示模板文件夹路径\")",
+                    "target": "setName(\"提示模板文件夹路径\")"
+                },
+                {
+                    "source": "setDesc(\"提示模板文件夹路径\")",
+                    "target": "setDesc(\"提示模板文件夹路径\")"
+                },
+                {
+                    "source": "setName(\"显示助手\")",
+                    "target": "setName(\"显示助手\")"
+                },
+                {
+                    "source": "setDesc(\"显示来自 AI 助手的状态消息\")",
+                    "target": "setDesc(\"显示来自 AI 助手的状态消息\")"
+                },
+                {
+                    "source": "setName(\"默认系统提示\")",
+                    "target": "setName(\"默认系统提示\")"
+                },
+                {
+                    "source": "setDesc(\"AI助手默认系统提示\")",
+                    "target": "setDesc(\"AI助手默认系统提示\")"
+                },
+                {
+                    "source": "setName(\"公告更新\")",
+                    "target": "setName(\"公告更新\")"
+                },
+                {
+                    "source": "setDesc(\"新版本安装时显示发布说明，含新功能、演示视频和错误修复。\")",
+                    "target": "setDesc(\"新版本安装时显示发布说明，含新功能、演示视频和错误修复。\")"
+                },
+                {
+                    "source": "setName(\"使用多行输入提示\")",
+                    "target": "setName(\"使用多行输入提示\")"
+                },
+                {
+                    "source": "setDesc(\"使用多行输入提示而非单行输入提示\")",
+                    "target": "setDesc(\"使用多行输入提示而非单行输入提示\")"
+                },
+                {
+                    "source": "setTooltip(\"使用多行输入提示\")",
+                    "target": "setTooltip(\"使用多行输入提示\")"
+                },
+                {
+                    "source": "setName(\"模板文件夹路径\")",
+                    "target": "setName(\"模板文件夹路径\")"
+                },
+                {
+                    "source": "setDesc(\"模板存储文件夹路径。配置QuickAdd时建议模板文件。\")",
+                    "target": "setDesc(\"模板存储文件夹路径。配置QuickAdd时建议模板文件。\")"
+                },
+                {
+                    "source": "setName(\"禁用 AI 与在线功能\")",
+                    "target": "setName(\"禁用 AI 与在线功能\")"
+                },
+                {
+                    "source": "setName(\"结果连接器\")",
+                    "target": "setName(\"结果连接器\")"
+                },
+                {
+                    "source": "setDesc(\"用于拼接多个 LLM 响应的字符串。默认值为换行符。\")",
+                    "target": "setDesc(\"用于拼接多个 LLM 响应的字符串。默认值为换行符。\")"
+                },
+                {
+                    "source": "setName(\"分块分隔符\")",
+                    "target": "setName(\"分块分隔符\")"
+                },
+                {
+                    "source": "setDesc(\"用于分隔文本块的字符串。默认值为换行符。\")",
+                    "target": "setDesc(\"用于分隔文本块的字符串。默认值为换行符。\")"
+                },
+                {
+                    "source": "setName(\"最大分块 Token 数\")",
+                    "target": "setName(\"最大分块 Token 数\")"
+                },
+                {
+                    "source": "setDesc(\"最大令牌数（块+提示模板+系统提示），预留响应空间\")",
+                    "target": "setDesc(\"最大令牌数（块+提示模板+系统提示），预留响应空间\")"
+                },
+                {
+                    "source": "setName(\"合并分块\")",
+                    "target": "setName(\"合并分块\")"
+                },
+                {
+                    "source": "setDesc(\"合并块至提示，达令牌限。减少查询，可能影响连贯性\")",
+                    "target": "setDesc(\"合并块至提示，达令牌限。减少查询，可能影响连贯性\")"
+                },
+                {
+                    "source": "log(\"Loading QuickAdd\")",
+                    "target": "log(\"Loading QuickAdd\")"
+                },
+                {
+                    "source": "log(`测试 QuickAdd (dev)`)",
+                    "target": "log(`测试 QuickAdd (dev)`)"
+                },
+                {
+                    "source": "log(\"Unloading QuickAdd\")",
+                    "target": "log(\"Unloading QuickAdd\")"
+                },
+                {
+                    "source": "textContent=\"添加选项\"",
+                    "target": "textContent=\"添加选项\""
+                },
+                {
+                    "source": "text:\"创建新笔记时选择文件夹\"",
+                    "target": "text:\"创建新笔记时选择文件夹\""
+                },
+                {
+                    "source": "textContent=\"捕获到当前文件\"",
+                    "target": "textContent=\"捕获到当前文件\""
+                },
+                {
+                    "source": "innerText=`${this.settings?.name}${this.settings?.author?\" 通过 \"+this.settings?.author:\"\"}`",
+                    "target": "innerText=`${this.settings?.name}${this.settings?.author?\" 通过 \"+this.settings?.author:\"\"}`"
+                },
+                {
+                    "source": "text:`${this.settings.name} 设置`",
+                    "target": "text:`${this.settings.name} 设置`"
+                },
+                {
+                    "source": "innerText=`Token count: ${this.systemPromptTokenLength!==Number.POSITIVE_INFINITY?this.systemPromptTokenLength:\"select a model to calculate\"}`",
+                    "target": "innerText=`Token count: ${this.systemPromptTokenLength!==Number.POSITIVE_INFINITY?this.systemPromptTokenLength:\"select a model to calculate\"}`"
+                },
+                {
+                    "source": "text:\"Macro Manager\"",
+                    "target": "text:\"Macro Manager\""
+                },
+                {
+                    "source": "text:\"AI 助手设置\"",
+                    "target": "text:\"AI 助手设置\""
+                },
+                {
+                    "source": "textContent=\"AI 助手\"",
+                    "target": "textContent=\"AI 助手\""
+                },
+                {
+                    "source": "textContent=\"Manage Macros\"",
+                    "target": "textContent=\"Manage Macros\""
+                },
+                {
+                    "source": "text:\"QuickAdd Settings\"",
+                    "target": "text:\"QuickAdd Settings\""
+                },
+                {
+                    "source": "description:\"Migrate to macro ID from embedded macro in macro choices.\"",
+                    "target": "description:\"Migrate to macro ID from embedded macro in macro choices.\""
+                },
+                {
+                    "source": "description:\"使用 QuickAdd 模板文件夹，而非 Obsidian/Templater 模板文件夹。\"",
+                    "target": "description:\"使用 QuickAdd 模板文件夹，而非 Obsidian/Templater 模板文件夹。\""
+                },
+                {
+                    "source": "description:\"'递增文件名' 设置移至 '文件存在时默认行为' 设置。\"",
+                    "target": "description:\"'递增文件名' 设置移至 '文件存在时默认行为' 设置。\""
+                },
+                {
+                    "source": "description:\"insertAfter 与 writeToBottomOfFile 设置互斥。如果启用 insertAfter，则禁用 writeToBottomOfFile。用于支持设置界面变更。\"",
+                    "target": "description:\"insertAfter 与 writeToBottomOfFile 设置互斥。如果启用 insertAfter，则禁用 writeToBottomOfFile。用于支持设置界面变更。\""
+                },
+                {
+                    "source": "description:\"Set version to 0.14.0, which is the release version prior to the update modal release.\"",
+                    "target": "description:\"Set version to 0.14.0, which is the release version prior to the update modal release.\""
+                },
+                {
+                    "source": "description:\"将默认 AI 提供商添加到设置中。\"",
+                    "target": "description:\"将默认 AI 提供商添加到设置中。\""
+                },
+                {
+                    "source": "text:\"正在获取发行说明...\"",
+                    "target": "text:\"正在获取发行说明...\""
+                },
+                {
+                    "source": "innerText=`Token count: ${this.systemPromptTokenLength}`",
+                    "target": "innerText=`Token count: ${this.systemPromptTokenLength}`"
+                },
+                {
+                    "source": "name:\"运行 QuickAdd\"",
+                    "target": "name:\"运行 QuickAdd\""
+                },
+                {
+                    "source": "name:\"重新加载 QuickAdd (dev)\"",
+                    "target": "name:\"重新加载 QuickAdd (dev)\""
+                },
+                {
+                    "source": "name:\"测试 QuickAdd (dev)\"",
+                    "target": "name:\"测试 QuickAdd (dev)\""
+                }
+            ]
+        }
+    }
+}
